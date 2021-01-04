@@ -1,8 +1,8 @@
 # **Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-<img src="test_images_output/solidYellowCurve2.jpg" width="300" alt="Combined Image" />
-<img src="test_images_output/solidYellowLeft.jpg" width="300" alt="Combined Image" />
+<img src="test_images_output/solidYellowCurve2.jpg" width="550" alt="Combined Image" />
+<img src="test_images_output/solidWhiteRight.jpg" width="550" alt="Combined Image" />
 
 ---
 
